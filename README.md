@@ -7,4 +7,5 @@ Allow students to discover number patterns with a colour coded multiplication ta
 ## Requirements
 
 Python >=3.9
+
 Pillow >= 11
